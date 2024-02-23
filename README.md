@@ -11,4 +11,4 @@ In this project i have used react js library for the development and have optimi
  4. interactive
     
 
-[Live version](https://rentz-rental.netlify.app/)
+[Live version]([https://rentz-rental.netlify.app/](https://rentingcar.netlify.app/)https://rentingcar.netlify.app/)
